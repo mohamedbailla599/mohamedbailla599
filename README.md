@@ -5,11 +5,11 @@
 ### Software Engineer · Full-Stack Developer · AI & Data Enthusiast
 
 🎓 **Master's Student in Software Engineering**  
-📍 Agadir, Morocco  
-📧 **mohamedbailla599@gmail.com**
+📍 Agadir, Morocco
 
-[![GitHub](https://img.shields.io/badge/GitHub-mohamedbailla599-181717?style=for-the-badge&logo=github)](https://github.com/mohamedbailla599)
-[![Email](https://img.shields.io/badge/Email-mohamedbailla599%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedbailla599@gmail.com)
+<a href="https://github.com/mohamedbailla599"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:mohamedbailla599@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mohamed-bailla-5bb45b2aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -185,10 +185,13 @@ Software Engineering
 
 # 📫 Let's Connect
 
-I'm open to discussing **Software Engineering, AI, Machine Learning, Full-Stack Development, Data and interesting projects**.
+<div align="center">
 
-📧 **mohamedbailla599@gmail.com**  
-📍 **Agadir, Morocco**
+<a href="https://github.com/mohamedbailla599"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:mohamedbailla599@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mohamed-bailla-5bb45b2aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+</div>
 
 <div align="center">
 
