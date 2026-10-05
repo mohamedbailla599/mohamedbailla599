@@ -1,151 +1,121 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohamed BAILLA
+# Mohamed BAILLA
 
 ### Software Engineer · Full-Stack Developer · AI & Data Enthusiast
 
-🎓 **Master's Student in Software Engineering**  
-📍 Agadir, Morocco
+Building practical software with **clean architecture, intelligent systems, and reliable backend engineering**.
 
-<a href="https://github.com/mohamedbailla599"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:mohamedbailla599@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/mohamed-bailla-5bb45b2aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+[GitHub](https://github.com/mohamedbailla599) · [LinkedIn](https://www.linkedin.com/in/mohamed-bailla-5bb45b2aa) · [Email](mailto:mohamedbailla599@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I'm **Mohamed BAILLA**, a Master's student in **Software Engineering** with a strong background in Information Systems Development.
+I'm a **Software Engineering Master's student** based in Morocco, focused on building production-oriented applications across **full-stack development, backend engineering, AI/ML, computer vision, data, and distributed systems**.
 
-I enjoy building **full-stack applications, intelligent systems and data-driven solutions**, combining software engineering with AI, databases and modern web technologies.
+I enjoy taking an idea from architecture to implementation: designing APIs and databases, building usable interfaces, integrating intelligent features, and thinking about deployment, observability, testing, and maintainability.
 
-My interests include:
+### What I work with
 
-- 💻 Full-Stack Web Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data & Business Intelligence
-- 🗄️ Database Systems
-- 🏗️ Software Architecture & Microservices
-- 🔌 API & Backend Development
-- 👁️ Computer Vision
-- 🌱 Smart / IoT-oriented applications
-
-I focus on turning ideas into practical applications with clean architecture, usable interfaces and reliable backend systems.
+- 🏗️ **Software Architecture** — Microservices, DDD, CQRS, Vertical Slice Architecture
+- ⚙️ **Backend Engineering** — Java/Spring Boot, Python, Django, Flask, FastAPI, REST APIs
+- 🌐 **Full-Stack Development** — React, TypeScript, JavaScript, Tailwind CSS
+- 🤖 **AI & Computer Vision** — Machine Learning, YOLO, OpenCV, Generative AI
+- 📊 **Data & BI** — ETL, Data Warehousing, OLAP, Power BI
+- 🗄️ **Databases** — PostgreSQL, MySQL, MongoDB, SQLite, NoSQL
+- 🐳 **Engineering & DevOps** — Git, Docker, testing, observability
 
 ---
 
-## 🧠 Technical Skills
+## ⭐ Featured Projects
 
-### 💻 Programming Languages
-
-`C` · `Java` · `Python` · `JavaScript` · `PHP`
-
-### 🌐 Frontend
-
-`HTML5` · `CSS3` · `React` · `Tailwind CSS` · `Material UI`
-
-### ⚙️ Backend
-
-`Node.js` · `Laravel` · `Django` · `Flask` · `FastAPI`
-
-### 🤖 AI & Machine Learning
-
-`Machine Learning` · `Computer Vision` · `YOLO` · `NLP` · `Generative AI`
-
-### 🗄️ Databases
-
-`MySQL` · `PostgreSQL` · `SQLite` · `NoSQL` · `SQL` · `Supabase`
-
-### 📊 Data & Business Intelligence
-
-`Talend` · `SSIS` · `OLAP` · `MDX` · `Power BI` · `ETL` · `Data Warehousing`
-
-### 🛠️ Tools & Engineering
-
-`Git` · `Docker` · `UML` · `Merise` · `REST APIs` · `Google APIs`
-
----
-
-# ⭐ Featured Projects
-
-## 🚦 TraffiQ — AI-Powered Traffic Analysis
+### 🚦 TraffiQ — AI Traffic Analysis
 
 **[Traffic-Intelligence](https://github.com/mohamedbailla599/Traffic-Intelligence)**
 
-A real-time traffic analysis system combining **Computer Vision, Object Tracking, Machine Learning and Web Development**.
+Real-time traffic analysis combining **computer vision, object tracking, machine learning, and web development**.
 
-- 🚗 YOLOv8 vehicle detection
-- 🎯 ByteTrack multi-object tracking
-- 🛣️ Lane-level analytics and congestion analysis
-- ⚡ Speed detection and speeding alerts
-- 📸 Automatic speed-camera snapshots
-- 🔥 Traffic density heatmaps
-- 📊 Real-time Flask dashboard
-- 🤖 ML-based traffic trend prediction
-- 🚨 Incident detection and emergency priority
-- 💾 CSV analytics logging
+- YOLOv8 vehicle detection + ByteTrack tracking
+- Lane-level traffic analytics and congestion analysis
+- Speed estimation and speeding alerts
+- Automatic speed-camera snapshots
+- Incident detection and emergency priority
+- Traffic-density heatmaps
+- ML-based traffic trend prediction
+- Live Flask dashboard with interactive controls
 
-**Stack:** `Python` · `YOLOv8` · `ByteTrack` · `OpenCV` · `Flask` · `Chart.js` · `scikit-learn`
+**Stack:** `Python` `YOLOv8` `ByteTrack` `OpenCV` `Flask` `Chart.js` `scikit-learn`
 
 ---
 
-## 🌱 GreenFlow — Smart Irrigation System
-
-**[GreenFlow](https://github.com/mohamedbailla599/GreenFlow)**
-
-A smart irrigation control application built around simulated real-time environmental sensors and AI-assisted analysis.
-
-- 💧 Soil moisture monitoring
-- 🌡️ Temperature and air-humidity monitoring
-- 🌧️ Rain and water-level monitoring
-- 📊 Real-time sensor dashboard
-- ⚙️ Automatic / manual irrigation control
-- 🔔 Alerts and sensor history
-- 🤖 Gemini-powered AI insights
-- 🧠 Local rule-based AI fallback
-- 📈 Real-time data visualization
-
-**Stack:** `React` · `TypeScript` · `Gemini AI` · `Vite` · `Recharts`
-
----
-
-## 🏗️ Booking Microservices
+### 🏗️ Booking Microservices — Distributed Systems
 
 **[Booking-microservices](https://github.com/mohamedbailla599/Booking-microservices)**
 
-🚧 **Currently under development** — an exploration of microservice-based software architecture and distributed application development.
+A distributed booking platform used to explore **microservices architecture, domain-driven design, CQRS, event-driven communication, and observability**.
+
+- Java + Spring Boot microservices
+- DDD + Vertical Slice Architecture + CQRS
+- REST + gRPC communication
+- RabbitMQ event-driven messaging
+- PostgreSQL + MongoDB
+- Keycloak authentication and authorization
+- Docker-based infrastructure
+- OpenTelemetry, Prometheus, Grafana and Jaeger
+- Unit, integration and end-to-end testing
+
+**Stack:** `Java` `Spring Boot` `PostgreSQL` `MongoDB` `RabbitMQ` `gRPC` `Docker` `Keycloak`
 
 ---
 
-# 🎓 Education
+### 🌱 GreenFlow — Smart Irrigation
 
-### Master's in Software Engineering
-**Faculté des Sciences, Agadir — Morocco**  
-`2025 – Present`
+**[GreenFlow](https://github.com/mohamedbailla599/GreenFlow)**
 
-### Bachelor's in Software Engineering
-**Faculté des Sciences, Agadir — Morocco**  
-`2024 – 2025`
+A smart irrigation application combining **real-time environmental monitoring, automation, visualization, and AI-assisted insights**.
 
-### BTS — Information Systems Development
-**Lycée Technique Qualifiant — Morocco**  
-`2022 – 2024`
+- Soil moisture, temperature, humidity, rain and water-level monitoring
+- Automatic and manual irrigation control
+- Sensor history and alerts
+- Real-time dashboard and charts
+- Gemini-powered AI insights with local fallback
 
----
-
-# 💼 Experience
-
-### Software Engineering Intern — ONEP
-
-**Morocco · 2 Months**
-
-Worked on an internal employee-management web application, contributing to personnel-record digitization, administrative workflows, secure employee data handling and user-oriented application development.
+**Stack:** `React` `TypeScript` `Vite` `Gemini AI` `Recharts`
 
 ---
 
-# 🌍 Languages
+### 📱 Phone Retail POS
+
+**[phone-retail-pos](https://github.com/mohamedbailla599/phone-retail-pos)**
+
+Production-oriented POS and inventory management system covering **catalog, inventory, sales, payments, customers, reservations, warranties, returns, exchanges, audit, and reporting**.
+
+**Stack:** `Django` `Django REST Framework` `PostgreSQL` `React` `TypeScript` `Vite` `Docker`
+
+---
+
+## 🎓 Education
+
+**Master's in Software Engineering** — Faculté des Sciences, Agadir · `2025–Present`
+
+**Bachelor's in Software Engineering** — Faculté des Sciences, Agadir · `2024–2025`
+
+**BTS — Information Systems Development** — Lycée Technique Qualifiant · `2022–2024`
+
+---
+
+## 💼 Experience
+
+**Software Engineering Intern — ONEP**
+
+Contributed to an internal employee-management web application focused on personnel-record digitization, administrative workflows, secure employee data handling, and user-oriented application development.
+
+---
+
+## 🌍 Languages
 
 | Language | Level |
 |---|---|
@@ -155,27 +125,20 @@ Worked on an internal employee-management web application, contributing to perso
 
 ---
 
-# 🎯 Areas of Interest
-
-`Software Engineering` · `Full-Stack Development` · `Artificial Intelligence` · `Machine Learning` · `Computer Vision` · `Data Engineering` · `Business Intelligence` · `Backend Engineering` · `Microservices` · `APIs` · `Database Engineering`
-
----
-
-# 📈 Currently Exploring
+## 🎯 Currently Focused On
 
 ```text
 Software Engineering
-│
-├── Full-Stack Development
 ├── Backend & APIs
-├── Microservices
+├── Distributed Systems & Microservices
+├── Full-Stack Development
 │
 ├── Artificial Intelligence
 │   ├── Machine Learning
 │   ├── Computer Vision
 │   └── Generative AI
 │
-└── Data & Business Intelligence
+└── Data Engineering & Business Intelligence
     ├── ETL
     ├── Data Warehousing
     └── Analytics
@@ -183,20 +146,10 @@ Software Engineering
 
 ---
 
-# 📫 Let's Connect
-
 <div align="center">
 
-<a href="https://github.com/mohamedbailla599"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:mohamedbailla599@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/mohamed-bailla-5bb45b2aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+### Build · Learn · Improve · Repeat
 
-</div>
-
-<div align="center">
-
-### 💻 Build · Learn · Improve · Repeat
-
-⭐ Feel free to explore my repositories and follow my development journey.
+⭐ Explore the repositories above to see the engineering work behind the stack.
 
 </div>
