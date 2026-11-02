@@ -31,9 +31,7 @@ jobs:
             exit 0
           fi
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+mohamedbailla599"
-          git config user.email "41898282+mohamedbailla599"
-          git config user.email "41898282+users.noreply.github.com"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit --quiet --message "koi: draw the day's koi"
           git pull --rebase origin main
           git push --quiet
