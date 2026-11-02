@@ -150,6 +150,8 @@ Software Engineering
 
 ### Build · Learn · Improve · Repeat
 
+<img src="koi/koi.gif" width="256" alt="A pixel-art koi fish generated from my GitHub activity" />
+
 ⭐ Explore the repositories above to see the engineering work behind the stack.
 
 </div>
